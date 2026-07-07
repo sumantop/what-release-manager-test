@@ -1,0 +1,2 @@
+-- XYNE-905
+ALTER TABLE users ADD COLUMN col_905 text;
