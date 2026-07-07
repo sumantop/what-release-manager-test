@@ -1,0 +1,2 @@
+-- XYNE-106
+ALTER TABLE users ADD COLUMN col_106 text;
